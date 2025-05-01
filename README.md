@@ -41,7 +41,6 @@ This project is ideal for learning **full-stack web development** using **pure P
 📂 Learn more about the project structure and features from the detailed PowerPoint presentation:
 
 [![Open Presentation](https://img.shields.io/badge/Open-PPT_File-orange?style=for-the-badge&logo=microsoft-powerpoint)](docs/Airline_Reservation_Presentation.pptx)
-[![Download PPT](https://img.shields.io/badge/Download-Presentation-lightblue?style=for-the-badge&logo=download)](docs/Airline_Reservation_Presentation.pptx)
 
 ---
 
